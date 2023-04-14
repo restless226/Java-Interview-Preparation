@@ -1,0 +1,4 @@
+x = 10, y = 20
+
+
+Process finished with exit code 0

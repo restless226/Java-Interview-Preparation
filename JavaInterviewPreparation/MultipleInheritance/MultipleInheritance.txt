@@ -1,0 +1,6 @@
+inside makeNoise noise is Meow
+inside poop my cat is pooping
+inside printName name = Animal
+random animal stuff
+
+Process finished with exit code 0

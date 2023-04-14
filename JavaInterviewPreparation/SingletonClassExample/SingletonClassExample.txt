@@ -1,0 +1,7 @@
+inside SingletonClassExample constructor
+JavaInterviewPreparation.SingletonClassExample.SingletonClassExample@7291c18f
+inside getInstance
+inside SingletonClassExample constructor
+JavaInterviewPreparation.SingletonClassExample.SingletonClassExample@34a245ab
+
+Process finished with exit code 0

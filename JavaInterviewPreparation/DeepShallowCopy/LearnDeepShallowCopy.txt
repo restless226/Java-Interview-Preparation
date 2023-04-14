@@ -1,0 +1,33 @@
+before:
+
+x = 0, y = 0
+
+after:
+
+x = 10, y = 20
+
+x = 10, y = 20
+
+after:
+
+x = 10, y = 20
+
+before:
+Displaying d1:
+
+x = 10, y = 20
+
+Displaying d2:
+
+x = 10, y = 20
+
+after:
+Displaying d1:
+
+x = 30, y = 40
+
+Displaying d2:
+
+x = 30, y = 40
+
+Process finished with exit code 0

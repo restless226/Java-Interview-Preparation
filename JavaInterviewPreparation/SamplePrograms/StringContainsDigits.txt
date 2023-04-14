@@ -1,0 +1,12 @@
+Enter no of test cases:
+3
+Enter string:
+false
+Enter string:
+hello1
+true
+Enter string:
+hello
+false
+
+Process finished with exit code 0

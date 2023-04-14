@@ -1,0 +1,6 @@
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.util.Vector.<init>(Vector.java:146)
+	at java.base/java.util.Vector.<init>(Vector.java:159)
+	at JavaInterviewPreparation.MemoryLeakExample.MemoryLeakExample.main(MemoryLeakExample.java:12)
+
+Process finished with exit code 1

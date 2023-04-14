@@ -1,0 +1,9 @@
+Plane it is
+PLANE
+CAR
+BUS
+100
+1
+Not a bus
+
+Process finished with exit code 0

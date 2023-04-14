@@ -1,0 +1,8 @@
+inside writeIntoFile
+inside readFromFile
+hello
+world
+bye
+inside copyFileIntoAnotherFile
+
+Process finished with exit code 0

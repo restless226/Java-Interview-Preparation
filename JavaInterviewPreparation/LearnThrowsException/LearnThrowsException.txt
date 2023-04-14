@@ -1,0 +1,4 @@
+Inside fun().
+caught in main.
+
+Process finished with exit code 0

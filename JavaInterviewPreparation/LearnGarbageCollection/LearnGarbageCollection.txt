@@ -1,0 +1,4 @@
+object is garbage collected
+object is garbage collected
+
+Process finished with exit code 0

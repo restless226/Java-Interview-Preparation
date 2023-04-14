@@ -1,0 +1,142 @@
+********************ARRAYLIST********************
+[10, 20, 30, 40, 50, 60, 70, 80]
+false
+the element is: 10
+the element is: 20
+the element is: 2000
+the element is: 40
+the element is: 50
+the element is: 60
+the element is: 70
+the element is: 80
+foreach the element is: 10
+foreach the element is: 20
+foreach the element is: 2000
+foreach the element is: 40
+foreach the element is: 50
+foreach the element is: 60
+foreach the element is: 70
+foreach the element is: 80
+iterator: 10
+iterator: 20
+iterator: 2000
+iterator: 40
+iterator: 50
+iterator: 60
+iterator: 70
+iterator: 80
+[]
+[Student{name='Harshal', rollNo=3}, Student{name='Rohit', rollNo=5}, Student{name='Rahul', rollNo=5}, Student{name='Abhijeet', rollNo=10}]
+[Student{name='Abhijeet', rollNo=10}, Student{name='Harshal', rollNo=3}, Student{name='Rahul', rollNo=5}, Student{name='Rohit', rollNo=5}]
+********************STACK********************
+Stack: [lion, horse, cat, rabbit]
+rabbit
+cat
+********************LINKED-LIST-AND-QUEUE********************
+[12, 24, 36]
+12
+[24, 36]
+24
+********************PRIORITY-QUEUE********************
+********************MINHEAP********************
+[12, 36, 24, 40]
+12
+[24, 36, 40]
+24
+********************MAXHEAP********************
+[40, 36, 24, 12]
+40
+[36, 12, 24]
+36
+********************ARRAY_DEQUE********************
+[12]
+[24, 12]
+[24, 12, 36]
+24
+24
+[12, 36]
+********************HASHSET********************
+[32, 64, 16, 80, 96]
+true
+false
+[32, 64, 16, 96]
+false
+true
+********************LINKED-HASHSET********************
+[32, 64, 16, 80, 96]
+true
+false
+[32, 64, 16, 96]
+false
+true
+********************TREE-SET********************
+[16, 32, 64, 80, 96]
+true
+false
+[16, 32, 64, 96]
+false
+true
+********************CUSTOM-HASHSET********************
+[Student{name='Harshal', rollNo=3}, Student{name='Rohit', rollNo=5}, Student{name='Abhijeet', rollNo=10}]
+true
+********************HASHMAP********************
+{one=1, two=2, three=3}
+{one=1, two=23, three=3}
+one=1
+one => 1
+two=23
+two => 23
+three=3
+three => 3
+true
+false
+{one=1, two=23}
+********************TREEMAP********************
+{one=1, three=3, two=2}
+{one=1, three=3, two=23}
+one=1
+one => 1
+three=3
+three => 3
+two=23
+two => 23
+true
+false
+{one=1, two=23}
+********************ARRAYS********************
+3
+4
+4
+5
+6
+7
+8
+12
+32
+34
+35
+65
+335
+345
+12
+12
+12
+12
+12
+12
+12
+12
+12
+12
+12
+12
+12
+12
+********************COLLECTIONS********************
+[34, 23, 54, 3, 3, 56, 56]
+min element: 3
+max element: 56
+max element: 0
+[56, 56, 54, 34, 23, 3, 3]
+
+Process finished with exit code 0

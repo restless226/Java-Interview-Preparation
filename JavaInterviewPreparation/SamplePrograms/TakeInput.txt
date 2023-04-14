@@ -1,0 +1,8 @@
+Enter value for int:
+5
+Enter value for long:
+10000000
+Enter value for string:
+5 10000000
+
+Process finished with exit code 0

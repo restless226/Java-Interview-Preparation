@@ -1,0 +1,6 @@
+Bill Gates
+Elon Musk
+Jeff Bezos
+Warren Buffett
+
+Process finished with exit code 0

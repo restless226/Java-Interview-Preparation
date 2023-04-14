@@ -1,0 +1,6 @@
+inside constructor A
+inside constructor B
+inside displayA
+running safely with 60km
+
+Process finished with exit code 0

@@ -1,0 +1,4 @@
+This is GetterSetterExample class
+This is modified GetterSetterExample message
+
+Process finished with exit code 0

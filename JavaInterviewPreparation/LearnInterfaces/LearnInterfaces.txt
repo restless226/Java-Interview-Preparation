@@ -1,0 +1,12 @@
+10
+ByTwos: 2
+ByTwos: 4
+ByTwos: 6
+ByTwos: 8
+ByTwos: 10
+Cannot go to above value: 10
+ByTwos: 10
+Inside ByTwos class
+Hello, there. I am Series Interface. Bye.
+
+Process finished with exit code 0
